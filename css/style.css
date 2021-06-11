@@ -354,7 +354,7 @@ body{
 
 .form textarea{
 	min-height: 140px;
-	color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
 	resize: none; /*le sacamos la posibilidad de que se pueda redimencionar*/
 }
 
