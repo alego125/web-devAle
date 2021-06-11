@@ -322,7 +322,7 @@ body{
 }
 
 .form{
-	min-width: 240px;
+	min-width: 120px;
 	flex: 1;
 	text-align: center;
 	order: 2;/*este es mas chico que el de la imagen para que de esta manera nos quede la imagen a la izquierda y el formulario a la derecha*/
