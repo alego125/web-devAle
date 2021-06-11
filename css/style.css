@@ -125,7 +125,7 @@ body{
     transform: translateY(-100%)
 }
 .header__btnceirre-esconder{
-    transform: translateY(-150%);
+    display:none;
 }
 
 /* SECCION1 */
